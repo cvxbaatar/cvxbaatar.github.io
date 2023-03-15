@@ -1,0 +1,33 @@
+Анхны өгөгдөл:
+Зурагт 2019 оны наймдугаар сард Грек улсад амралтаар ирсэн жуулчдын чөлөөт цагаа зарцуулсан
+үйл ажиллагаануудын хугацааг өдөрт ноогдох дундаж хугацаагаар харуулжээ.
+
+Загвар:
+Багана диаграммаар 2019 оны наймдугаар сард Грек улсад амралтаар ирсэн 4 өөр улсын жуулчдын чөлөөт цагаа зарцуулсан үйл ажиллагаануудын хугацааг харьцуулан харуулжээ. Судалгаанд хамрагдсан үйл ажиллагаанууд эрэг дээр очих, ном унших, янз бүрийн газарт очих зэрэг байсан.
+
+Ерөнхийд нь харвал ихэнх цагийг ном уншихад зарцуулж байсан бол зугаалахад бага цаг зарцуулсан байна. Хятад жуулчинд ном уншихад хамгийн урт буюу өдөрт найман цагийг дундажаар зарцуулж байсан бол Бразид жуулчид эрэг дээр өдөрт зургаан цагийг зарцуулсан эрэг дээр өнгөрүүлсэн хамгийн урт хугацаа байна.
+
+Америк болон Турк жуулчид зугаалахад өдөрт гурван цагийг зарцуулжээ. Мөн ном уншихад өдөрт дөрвөн цагийг Турк, Бразил жуулчид ижилхэн зарцуулжээ. Хятадууд ном уншихад Бразил, Туркуудаас хоёр дахин их хугацааг зарцуулсан бол Америк болон Турк жуулчид Хятад жуулчдаас гурав дахин их хугацааг зугаалахад зарцуулсан байна.
+
+
+
+Initial:
+The bar chart shows the percentages of the Canadian workforce in five major industries in 1850 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+Model answer:
+The bar charts divide the Canadian workforce into five categories based on the type of industry they work in for the years 1850 and 2020.
+
+The overall trend shown in the data is a steep rise in the proportion of employees engaged in the service industry, coupled with a decline in manufacturing. The most salient feature is that in 2020 81% of the workforce were involved in providing services, which contrasts sharply with the figure of 33% in 1850. In contrast, we observe a huge drop in the manufacturing industry from over a third in the mid nineteenth century to just 9% by the early twenty-first century.
+
+Furthermore, the 170-year period saw a marked fall in the agriculture and fishing sectors, leaving food production with a tiny 1% of Canadian workers. Similarly, workers in energy and water companies decreased by two thirds. On the other hand, the construction industry experienced significant growth from 5% to 8% over the period.
+
+In general, the job profile of the Canadian workforce changed radically between 1850 and 2020, with the increases coming in the construction and service industry but all other areas seeing a decline.
+
+
+
+
+
+
+
+
